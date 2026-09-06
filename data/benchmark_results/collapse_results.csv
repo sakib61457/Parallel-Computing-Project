@@ -1,0 +1,13 @@
+Matrix,Threads,Normal parallel for (ms),collapse(2) (ms),Faster
+256,1,939,876,Collapse(2)
+256,2,439,445,Normal
+256,4,278,281,Normal
+256,8,166,172,Normal
+512,1,6211,6610,Normal
+512,2,3725,3807,Normal
+512,4,2336,2352,Normal
+512,8,1536,1397,Collapse(2)
+1024,1,63270,59177,Collapse(2)
+1024,2,32961,31874,Collapse(2)
+1024,4,20583,20445,Collapse(2)
+1024,8,12772,14858,Normal

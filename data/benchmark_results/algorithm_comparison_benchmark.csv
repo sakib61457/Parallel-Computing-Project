@@ -1,0 +1,5 @@
+Threads,Matrix_Mul_Speedup,Merge_Sort_Speedup,BFS_Speedup
+1,1.0,1.0,1.0
+2,1.91,1.88,1.84
+4,3.65,3.43,3.38
+8,6.42,5.31,5.38
