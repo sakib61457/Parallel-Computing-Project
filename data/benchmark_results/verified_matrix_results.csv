@@ -1,3 +1,0 @@
-Matrix,Threads,Sequential (ms),Static (ms),Dynamic (ms),Collapse(2) (ms),Verified
-256,1,1227,1185,1096,998,PASSED
-256,2,1227,574,567,581,PASSED
